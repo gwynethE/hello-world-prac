@@ -1,3 +1,3 @@
 # hello-world-prac
-for practice repository
+f practice repository- hello world
 First step is to discover how commit works
